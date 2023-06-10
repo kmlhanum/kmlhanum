@@ -1,9 +1,9 @@
 ### 
-Hi 👋 My name is Kamila Hanum
+Hi 👋 I'm Kamila Hanum
 =============================
 
 *   🌍  I'm based in Indonesia
-*   🧠  I'm learning ReactJS and Flutter 
+*   🧠  Currently learning ReactJS and Flutter 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
