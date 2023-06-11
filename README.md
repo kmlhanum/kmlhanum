@@ -5,7 +5,9 @@ Hi 👋,
 I'm Kamila Hanum 👩‍💻 who is passionate about web and mobile technologies sometimes.
 
 🌱 I’m currently learning Flutter
+
 💬 Ask me about: tech, memes, kdrama/movies
+
 ⚡ language I've learn: Python (at collenge), and Dart (now).
 Feel free to contact me on
 
